@@ -1,0 +1,6 @@
+flask>=3.0
+flask-cors
+authlib
+requests
+python-dotenv
+pyjwt

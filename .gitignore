@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Secrets — NEVER commit
+backend/.env
+frontend/.env.local
+*.env
+
+# User data
+backend/data/prompts/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/settings.local.json

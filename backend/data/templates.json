@@ -1,0 +1,152 @@
+[
+  {
+    "id": "portrait-cinematic",
+    "category": "人像",
+    "name": "電影質感人像",
+    "subject": "A young woman with flowing hair",
+    "style": "photorealistic",
+    "composition": "close-up",
+    "lighting": "golden hour",
+    "details": "shallow depth of field, bokeh background, film grain"
+  },
+  {
+    "id": "portrait-studio",
+    "category": "人像",
+    "name": "專業棚拍",
+    "subject": "A professional male executive",
+    "style": "photorealistic",
+    "composition": "close-up",
+    "lighting": "studio",
+    "details": "clean white background, sharp focus, business attire"
+  },
+  {
+    "id": "landscape-fantasy",
+    "category": "風景",
+    "name": "奇幻山水",
+    "subject": "Floating islands above misty mountains",
+    "style": "oil painting",
+    "composition": "wide shot",
+    "lighting": "golden hour",
+    "details": "waterfalls cascading down, ancient temples, dramatic clouds"
+  },
+  {
+    "id": "landscape-arctic",
+    "category": "風景",
+    "name": "極地極光",
+    "subject": "Northern lights over a frozen lake",
+    "style": "photorealistic",
+    "composition": "wide shot",
+    "lighting": "natural",
+    "details": "stars reflected in ice, pine trees silhouette, long exposure effect"
+  },
+  {
+    "id": "landscape-desert",
+    "category": "風景",
+    "name": "沙漠日落",
+    "subject": "Sand dunes in a vast desert",
+    "style": "photorealistic",
+    "composition": "aerial view",
+    "lighting": "golden hour",
+    "details": "rich orange and red hues, camel caravan in distance, dramatic shadows"
+  },
+  {
+    "id": "scifi-city",
+    "category": "科幻",
+    "name": "賽博龐克都市",
+    "subject": "Futuristic megacity at night",
+    "style": "cyberpunk",
+    "composition": "wide shot",
+    "lighting": "neon",
+    "details": "flying cars, holographic billboards, rain-soaked streets, fog"
+  },
+  {
+    "id": "scifi-space",
+    "category": "科幻",
+    "name": "深空探索",
+    "subject": "Astronaut standing on an alien planet",
+    "style": "photorealistic",
+    "composition": "wide shot",
+    "lighting": "natural",
+    "details": "twin moons in sky, crystalline formations, distant nebula, space suit reflections"
+  },
+  {
+    "id": "scifi-robot",
+    "category": "科幻",
+    "name": "機器人特寫",
+    "subject": "An advanced humanoid robot with expressive eyes",
+    "style": "photorealistic",
+    "composition": "close-up",
+    "lighting": "studio",
+    "details": "chrome and titanium surfaces, blue LED accents, soft reflections"
+  },
+  {
+    "id": "anime-warrior",
+    "category": "動漫",
+    "name": "動漫戰士",
+    "subject": "A female samurai warrior in ornate armor",
+    "style": "anime",
+    "composition": "wide shot",
+    "lighting": "natural",
+    "details": "cherry blossom petals, katana drawn, dynamic pose, detailed fabric"
+  },
+  {
+    "id": "anime-landscape",
+    "category": "動漫",
+    "name": "動漫鄉村",
+    "subject": "A peaceful Japanese village in summer",
+    "style": "anime",
+    "composition": "wide shot",
+    "lighting": "golden hour",
+    "details": "Studio Ghibli style, lush greenery, cloud shadows, children playing"
+  },
+  {
+    "id": "art-watercolor",
+    "category": "藝術",
+    "name": "水彩城市",
+    "subject": "A European cobblestone street with cafes",
+    "style": "watercolor",
+    "composition": "wide shot",
+    "lighting": "natural",
+    "details": "loose brushstrokes, vibrant colors bleeding, umbrella tables, flower boxes"
+  },
+  {
+    "id": "art-abstract",
+    "category": "藝術",
+    "name": "抽象情緒",
+    "subject": "Abstract representation of human emotions",
+    "style": "oil painting",
+    "composition": "close-up",
+    "lighting": "studio",
+    "details": "bold color contrasts, impasto texture, swirling forms, dramatic composition"
+  },
+  {
+    "id": "nature-underwater",
+    "category": "自然",
+    "name": "深海奇境",
+    "subject": "Coral reef ecosystem with tropical fish",
+    "style": "photorealistic",
+    "composition": "wide shot",
+    "lighting": "natural",
+    "details": "God rays filtering through water, vibrant marine life, crystal clear visibility"
+  },
+  {
+    "id": "nature-forest",
+    "category": "自然",
+    "name": "古老森林",
+    "subject": "Ancient redwood forest with morning mist",
+    "style": "photorealistic",
+    "composition": "wide shot",
+    "lighting": "natural",
+    "details": "shafts of light, ferns on forest floor, moss-covered bark, ethereal atmosphere"
+  },
+  {
+    "id": "food-gourmet",
+    "category": "美食",
+    "name": "米其林料理",
+    "subject": "An elegant fine dining dish on a white plate",
+    "style": "photorealistic",
+    "composition": "close-up",
+    "lighting": "studio",
+    "details": "professional food photography, micro herbs, sauce art, shallow depth of field"
+  }
+]
